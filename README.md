@@ -63,6 +63,8 @@ Berikut adalah alur program dari awal hingga akhir:
 # Dokumentasi
 ![Flappy](https://github.com/user-attachments/assets/45c37c8f-c233-4659-8d60-434e241ead65)
 
+https://github.com/user-attachments/assets/5adb9a91-f657-44b4-ac30-15ec42a2eb02
+
 
 
 
