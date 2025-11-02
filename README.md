@@ -9,7 +9,7 @@ Saya Zahran Zaidan Saputra dengan NIM 2415429 mengerjakan Tugas Praktikum 5 dala
     * `Pipe.java`: Kelas yang menyimpan data/state untuk pipa (posisi x, y, ukuran, gambar, dan status `passed`).
 
 * **View:**
-    * `View.java`: Kelas yang mewarisi `JPanel` dan bertanggung jawab penuh untuk **menggambar** semua elemen visual ke layar. Ini termasuk latar belakang, burung, pipa, skor, dan layar "Game Over" beserta tombol-tombolnya.
+    * `View.java`: Kelas yang mewarisi `JPanel` dan bertanggung jawab penuh untuk menggambar semua elemen visual ke layar. Ini termasuk latar belakang, burung, pipa, skor, dan layar "Game Over" beserta tombol-tombolnya.
     * `MenuMenu.java`: Kelas `JDialog` kustom yang bertindak sebagai *view* untuk menu utama.
 
 * **Controller:**
@@ -62,7 +62,7 @@ Berikut adalah alur program dari awal hingga akhir:
 
 # Dokumentasi
 
-https://github.com/user-attachments/assets/d70353b7-ad8a-42fb-ae0f-0d9708f8189f
+https://github.com/user-attachments/assets/b7442a09-0c1c-483f-a93e-a59f5ad7cfce
 
 
 
