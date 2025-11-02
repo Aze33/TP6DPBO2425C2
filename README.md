@@ -63,6 +63,5 @@ Berikut adalah alur program dari awal hingga akhir:
 # Dokumentasi
 ![Flappy](https://github.com/user-attachments/assets/45c37c8f-c233-4659-8d60-434e241ead65)
 
-https://github.com/Aze33/TP6DPBO2425C2/blob/main/Dokumentasi/Flappy%20Bird.mp4
 
      
